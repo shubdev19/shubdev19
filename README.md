@@ -199,7 +199,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZqNDhxaWhsazB1dGt5cnp0MjF6ZD
 
 [![An image of @shubsolos19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubsolos19)](https://holopin.io/@shubsolos19)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
